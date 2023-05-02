@@ -17,6 +17,6 @@
 	transition-delay:1s;
 }
 .square:hover{
-	 background-color:red; 
+	 background-color:rgb(29, 29, 29); 
   transition-delay:0s;
 }
